@@ -19,7 +19,10 @@ with open(csvpath) as csvfile:
     great_inc = ['',0]
     great_dec = ['',0]
     change_list = []
+<<<<<<< HEAD
     
+=======
+>>>>>>> 6d97ba45c70638ff1cd1e34c4189ce05a5a6455b
     for row in csvreader:
         total_months += 1
         total_profit_loss += int(row[1])
