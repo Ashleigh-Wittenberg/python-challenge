@@ -21,7 +21,6 @@ with open(csvpath) as csvfile:
     great_dec = ['',0]
     change_list = []
     
-
 # Starting a for loop to read the CSV file lines, capture the total months 
     # and total profits/losses. 
     for row in csvreader:
