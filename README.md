@@ -14,6 +14,8 @@ budget_data.csv
 * The greatest increase in profits (date and amount) over the entire period
 * The greatest decrease in profits (date and amount) over the entire period
 
+  ![Screenshot 2024-01-11 162406](https://github.com/Ashleigh-Wittenberg/python-challenge/assets/152832328/97edf864-c7de-4c9b-b36d-e3a5113d680e)
+
 
 election_data.csv
 
@@ -23,4 +25,4 @@ election_data.csv
 * The total number of votes each candidate won
 * The winner of the election based on popular vote
 
-
+![Screenshot 2024-01-11 162335](https://github.com/Ashleigh-Wittenberg/python-challenge/assets/152832328/639a4422-dbcf-4dbf-85b4-c81a27233380)
